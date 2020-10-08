@@ -1,0 +1,13 @@
+.firstclass{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+} 
+#firstid ul{ 
+    margin-left: -50 px;
+    list-style-type: none;
+} 
+body{
+    background-color: papayawhip;
+}
